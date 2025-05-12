@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Reeteesha Roy
 
-### Sophomore @ VIT Bhopal University | B.Tech CSE (with specialization in Health Informatics) '27 | AI & ML Enthusiast   
+### Sophomore @ VIT Bhopal University | B.Tech CSE (with specialization in Health Informatics) '27 | AI & ML Enthusiast | Python | Java
 
 
 ## 🌟 About Me  
