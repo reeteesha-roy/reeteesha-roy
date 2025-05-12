@@ -1,16 +1,17 @@
 <div align="center">
 
+![Profile Picture](https://i.pinimg.com/736x/56/5d/67/565d67b0808e022c7e5d9cccef5e06fb.jpg)
+
 # Hi there 👋 I'm Reeteesha Roy
 
 ### Sophomore @ VIT Bhopal University | B.Tech CSE (with specialization in Health Informatics) '27 | AI & ML Enthusiast | Python | Java
 
-
-## 🌟 About Me  
-
-
 </div>
 
 <div style="text-align: justify;">   
+
+## 🌟 About Me  
+
   
 🌱 I'm currently exploring Data Structures and Analysis of Algorithms through 50 Days of Coding under #DrGVishwanathan Challenge by VIT Bhopal University. Previously, I've worked on projects focused on healthcare like brain tumor detection using YOLOv11 and skin disease detection with a custom CNN. 
 
@@ -18,9 +19,7 @@
 
 🤝 I’m open to collaborating on hands-on projects to explore AI/ML in real-world applications, and research oppurtunities where I can contribute, learn, and grow alongside passionate people in the field.
 
-</div>
 
-<div align="center">
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
