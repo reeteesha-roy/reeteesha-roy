@@ -41,11 +41,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
+<!--
 # 📊 Github Stats 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reeteesha-roy&show_icons=true&theme=radical)
-
+--->
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/reeteesha-r-28a347358//)
