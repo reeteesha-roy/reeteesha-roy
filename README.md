@@ -46,8 +46,15 @@
 <!--
 # 📊 Github Stats 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reeteesha-roy&show_icons=true&theme=radical)
---->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reeteesha-roy&show_icons=true&theme=radical)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeteesha-roy&layout=donut-vertical&theme=radical)](https://github.com/reeteesha-roy/github-readme-stats)
+-->
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=reeteesha-roy&theme=radical&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/reeteesha-r-28a347358//)
