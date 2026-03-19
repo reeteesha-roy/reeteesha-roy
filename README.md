@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Reeteesha Roy
 
-### Student @ VIT Bhopal University | B.Tech CSE (with specialization in Health Informatics) '27 | AI & ML Enthusiast 
+
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=reeteesha-roy&label=PROFILE+VIEWS)
 --->
