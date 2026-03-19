@@ -15,7 +15,7 @@
 ## 🌟 About Me  
 
   
-🌱 I'm currently exploring Data Structures and Analysis of Algorithms through 50 Days of Coding under #DrGVishwanathan Challenge by VIT Bhopal University. Previously, I've worked on projects focused on healthcare like brain tumor detection using YOLOv11 and skin disease detection with a custom CNN. 
+🌱 Previously, I've worked on projects focused on healthcare like brain tumor detection using YOLOv11 and skin disease detection with a custom CNN. 
 
 🧠 I'm passionate about current trends in AI, Machine Learning, and how they can be applied to a wide range of fields. I like to learn by hands-on projects to better understand and experiment with these concepts.
 
